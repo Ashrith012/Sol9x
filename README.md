@@ -9,11 +9,7 @@
 
 A complete full-stack MERN intern assignment demonstrating **user authentication**, **role-based access control**, and **dashboard CRUD operations**. Built with modern web technologies and deployed on Render.
 
-### ✨ Live Demo
-- **Frontend:** `https://your-frontend-url.onrender.com`
-- **Backend API:** `https://your-backend-url.onrender.com`
 
----
 
 ## 🏗️ Tech Stack
 
@@ -30,10 +26,7 @@ A complete full-stack MERN intern assignment demonstrating **user authentication
 - **Axios** - HTTP client
 - **React Router** - Client-side routing
 
-### Deployment
-- **Render** - Full-stack hosting platform
 
----
 
 ## 🎯 Features
 
@@ -61,12 +54,4 @@ A complete full-stack MERN intern assignment demonstrating **user authentication
 
 ---
 
-## 🚀 Quick Start
 
-### Prerequisites
-- Node.js (v18+)
-- Git
-
-### Local Development
-
-1. **Clone the repository**
