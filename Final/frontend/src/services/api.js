@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Set base URL
-axios.defaults.baseURL = 'http://localhost:5000';
+axios.defaults.baseURL = 'https://mern-intern-backend-5ly8.onrender.com';
 
 // Auth API calls
 export const authAPI = {
